@@ -1,15 +1,15 @@
 
 Inicializacija repozitorija v mapi
-'''git 
+´´´bash
 init
-'''
+´´´
 
 Dodaj datoteke za commit
-'''bash
+´´´bash
 git add .
-'''
+´´´
 
 Commit sprememb
-'''bash
+´´´bash
 git commit -m "opis"
-'''
+´´´
