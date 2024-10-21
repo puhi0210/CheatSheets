@@ -29,3 +29,7 @@ Pri deljenju kode je smiselno dodati seznam knjižnic, ki smo jih uporabili. Sez
 ```bash
 pip3 freeze > requirements.txt
 ```
+
+## Gitignore
+Direktorij ```.venv/``` je smiselno dodati v datoteko .gitignore.
+
